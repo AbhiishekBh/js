@@ -21,7 +21,7 @@ real documentation and rules is by ECMA organization  (https://tc39.es/)
 
 
 let age = 33; // number
-const name = "arun"; //String
+const firstName = "arun"; //String
 let value = false; //boolean
 let state = null; //null(empty)
 
@@ -33,7 +33,7 @@ let state = null; //null(empty)
 //undefined => undefined is like value is not defined
 // symbol => unique mostly used in react or in others for definig uniqueness...
 
-console.log(typeof(name)); //String
+console.log(typeof(firstName)); //String
 console.log(typeof age)  //Number
 
 console.log(typeof null); //Object
