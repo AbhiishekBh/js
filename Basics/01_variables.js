@@ -1,1 +1,1 @@
-const accountId = 
+const accountId = "abcdef";
